@@ -1,13 +1,10 @@
 # Project Guess Who
 
-With this weeks project I have designed a guess who game. It is an interactive board game that makes possible for player to ask questions. And based on that questions player has a chance to ask more questions and make a guess at every step of the game. 
+I have developed an interactive board game called "Guess Who" for this week's project. The game involves players asking questions to narrow down a particular character, and they can make a guess at each step 
 
 ## The problem
-
-I have spend some time looking into other people code and tried to understand their approach. This has given me confidence with starting coding guess who project. I have used all the materials provided by Technigo. Attended live sessions with Daniel. Aswell as a lot of googling, StackOverflow and asking in the slack. I have spend coding sessions with my teammates. If I had more time I would have changed all the characters. 
+To start the project, I spent time analyzing other people's code and learning from their approaches. I used various resources, including materials from Technigo, attended live sessions with Daniel, and relied on Google, StackOverflow, and Slack for support. During coding sessions, I collaborated with my team members. If I had more time, I would have altered all the characters in the game. 
 
 ## View it live
-
-You can check my project at https://exquisite-sprite-592d47.netlify.app/
-Make sure your brower allows audio!
+You can view my project live at https://exquisite-sprite-592d47.netlify.app/, but please ensure that your browser permits audio.
 
